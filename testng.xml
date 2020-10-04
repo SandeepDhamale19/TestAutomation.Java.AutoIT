@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" preserve-order="true" >
+  
+  <test  name="Test" preserve-order="true">
+    <classes>
+      <class name=""/> <!-- com.qa.application.testcases.LoginPageTest -->
+      <class name=""/>
+    </classes>
+   </test> <!-- Test -->	 
+  
+</suite> <!-- Suite -->
